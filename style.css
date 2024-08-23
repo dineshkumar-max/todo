@@ -1,0 +1,241 @@
+.parent{
+    background-color:rgb(231, 230, 230);
+    width: 100%;
+    height: 720px;
+    position: relative;
+   
+}
+.sub_parent{
+    margin-left: 120px;
+}
+
+.child{
+    background-color: white;
+    position: absolute;
+    height: 624px;
+    width: 250px;
+    margin-left: 105px;
+    margin-top: 40px;
+    border-radius: 10px;
+
+}
+.img_pos{
+    width: 30px;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+.first_li{
+    list-style: none;
+    padding-bottom: 20px;
+   
+}
+.first_ul{
+    padding-top: 40px;
+}
+img{
+    width: 20px;
+    padding-right: 12px;   
+}
+select{
+    text-decoration: none;
+    border: none;
+    width: 110px;
+    padding-bottom: 10px;
+}
+.foot{
+    padding-top: 80px;
+    padding-left: 30px;
+    float: left;
+}
+.eight{
+    width: 30px;
+}
+.btn{
+    padding-left: 30px;
+}
+button{
+    width: 100px;
+    border-radius: 10px;
+    border: none;
+    padding: 7px;
+    background-color: rgb(170, 165, 165);
+}   
+.dark_btn:hover{
+    background-color:#1f263b;
+    color: white;
+
+}
+.light_btn:hover{
+    background-color:rgb(253, 243, 131);
+  
+}
+.sun{
+    width: 15px;
+}
+.child_1{
+    background-color: white;
+    position: absolute;
+    height: 50px;
+    width: 700px;
+    margin-left: 380px;
+    padding-top: 20px;
+    margin-top: 42px;
+    border-radius: 10px;
+}
+.search_btn{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.enter_key{
+    width: 200px;
+    padding: 10px;
+    background-color: rgb(238, 238, 238);
+    border: none;
+    border-radius: 10px;
+}
+.plus{
+    width: 15px;
+}
+.create_btn{
+    margin-left: 150px;
+    background-color: rgb(105, 154, 239);
+    color: white;
+}
+.message{
+    margin-left: 15px;
+}
+.child_2{
+    background-color: white;
+    position: absolute;
+    height: 510px;
+    width: 260px;
+    margin-left: 380px;
+    padding-top: 20px;
+    margin-top: 135px;
+    border-radius: 10px;
+}
+.name{
+    margin-left: 5px;
+    color: rgb(122, 122, 122);
+}
+.check{
+    margin-left: 15px;
+    width: 40px;
+    height: 15px;
+}
+.pic{
+    margin-top: 1px;
+}
+.second_li{
+    list-style: none;
+    padding-bottom: 5px;       
+}
+.span_1{
+    padding-left: 70px;
+    font-size: 13px;
+    color:rgb(122, 122, 122) ;
+}
+.child_3{
+    background-color: white;
+    position: absolute;
+    height: 510px;
+    width:400px;
+    margin-left: 670px;
+    padding-top: 20px;
+    margin-top: 135px;
+    border-radius: 10px;
+}
+.pro_pic{
+    width: 30px;
+    margin-left: 15px;
+    float: left;
+    margin-top: 14px;
+}
+.p_name{
+    float: left ;
+}
+.span_2{
+    font-size: 13px;
+    color:rgb(122, 122, 122) ;
+}
+.follow{
+    margin-left: 10px;
+    padding: 8px;
+    margin-top: 15px;
+    background-color: rgb(170, 165, 165);
+    color: white;
+    width: 100px;
+
+ 
+}
+.plus_2{
+    width: 10px;
+    padding-left: 8px;
+}
+.msg{
+    
+    padding: 8px;
+    margin-top: 15px;
+    background-color:rgb(170, 165, 165) ;
+    color: white;
+    width: 130px;
+}
+.plus_3{
+    width: 15px;
+    margin-left: 5px;
+    
+}
+.second_li:hover{
+    background-color: rgb(229, 228, 228);
+    border-radius:10px ;
+    margin-right: 10px;
+}
+h5{
+    margin-left: 17px;
+    color:  rgb(137, 136, 136);
+}
+.txt_area{
+    margin-left: 25px;
+    border-radius: 10px;
+   background-color:  rgb(230, 230, 230);
+}
+.mail{
+    margin-left: 15px;
+}
+.mail_pic{
+    width: 15px;
+}
+.twitter_pic{
+    margin-left: 15px;
+}
+.link{
+    margin-left: 15px;
+}
+th{
+    width: 100px;
+    padding-left: 30px;
+    padding-right: 40px;
+    font-size: 13px;
+    color: rgb(131, 129, 129);
+}
+.table_name{
+    width: 18px;
+    margin-left: 10px;
+    margin-top: 7px;
+}
+.span_3{
+    font-size: 13px;
+    color:rgb(122, 122, 122) ;
+    padding-left: 40px;
+}
+.amount{
+    background-color: rgb(180, 244, 180);
+    width: 70px;
+    margin-left: 25px;
+   
+}
+.date{
+    font-size: 13px;
+    color:rgb(122, 122, 122) ;
+    padding-left: 30px;
+}
